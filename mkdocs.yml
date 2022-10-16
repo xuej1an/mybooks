@@ -1,0 +1,13 @@
+site_name: 我的小书
+theme:
+  name: material
+  language: zh
+  features:
+      - header.autohide
+
+nav:
+  - 前言: "index.md"
+  - 微积分:
+      - 微分: "微积分/微分.md"
+      - 积分: "微积分/微分.md"
+      - 极限: "微积分/微分.md"
