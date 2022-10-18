@@ -14,4 +14,4 @@ mkdocs build
 
 ## Deploy 
 
-todo
+just git push to `main` branch
